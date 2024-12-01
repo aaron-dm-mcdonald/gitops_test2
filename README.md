@@ -10,6 +10,13 @@ _A description of my project that blends travel, automation, and whimsy._
    - [Malaysia](#malaysia)
 2. [🌏 Travel Parameters](#-travel-parameters)
 3. [Simple Link](#simple-link)
+4. [Code Formatting with Bash Commands](#code-formatting-with-bash-commands)
+   - [REST API Interaction with `curl`](#rest-api-interaction-with-curl)
+   - [Setup](#setup)
+   - [POST - Create Data with JSON data and JQ](#post---create-data-with-json-data-and-jq)
+   - [PUT - Update Data with JSON data and JQ](#put---update-data-with-json-data-and-jq)
+5. [Project Structure](#project-structure)
+6. [How to make your directory tree](#how-to-make-your-directory-tree)
 
 ## 🖼️ Images:
 
